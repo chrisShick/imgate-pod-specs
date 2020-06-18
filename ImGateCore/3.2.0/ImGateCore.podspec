@@ -27,7 +27,7 @@ Pod::Spec.new do |s|
 
   s.dependency 'RxSwift', '~> 5.0.0'
   s.dependency 'RxBluetoothKit', '~> 5.3.0'
-  s.dependency 'CryptoSwift', '~> 1.0.0'
+  s.dependency 'CryptoSwift', '~> 1.1.2'
   s.dependency 'KeychainSwift', '~> 17.0.0'
   s.dependency 'SwiftDate', '~> 6.1.0'
   s.dependency 'Alamofire', '~> 4.9.0'
