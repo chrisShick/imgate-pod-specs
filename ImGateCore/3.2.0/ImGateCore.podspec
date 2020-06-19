@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
     'Security'
   ]
 
-  s.dependency 'RxSwift', '~> 5.0.0'
+  s.dependency 'RxSwift', '~> 5.1.1'
   s.dependency 'RxBluetoothKit', '~> 5.3.0'
   s.dependency 'CryptoSwift', '~> 1.1.2'
   s.dependency 'KeychainSwift', '~> 17.0.0'
